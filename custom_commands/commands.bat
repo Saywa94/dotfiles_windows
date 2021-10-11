@@ -1,2 +1,2 @@
 @ECHO OFF
-cd C:\Users\aywac\custom_commands
+cd "%USERPROFILE%\.dotfiles\custom_commands"

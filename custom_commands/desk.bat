@@ -1,2 +1,2 @@
 @echo off
-cd "%homepath%\Desktop"
+cd "%USERPROFILE%\Desktop"

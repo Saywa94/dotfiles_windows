@@ -1,2 +1,2 @@
 @echo OFF
-git log --oneline -5
+git log --oneline -7

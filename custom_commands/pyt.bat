@@ -1,2 +1,2 @@
 @echo off
-cd "%homepath%\OneDrive\Coding\Python"
+cd "%USERPROFILE%\OneDrive\Coding\Python"

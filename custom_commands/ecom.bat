@@ -1,2 +1,2 @@
 @echo off
-cd "%homepath%\OneDrive\Coding\Python\projects\ecommerce\"
+cd "%USERPROFILE%\OneDrive\Coding\Python\projects\ecommerce\"
