@@ -1,2 +1,2 @@
 @echo off
-ls -A
+ls -A -F --show-control-chars --color

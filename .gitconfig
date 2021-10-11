@@ -1,3 +1,7 @@
 [user]
 	name = Saywa Chavez
 	email = saywachavez@gmail.com
+	username = saywa
+
+[alias]
+	br = branch -av
